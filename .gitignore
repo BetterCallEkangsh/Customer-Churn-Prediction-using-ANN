@@ -6,4 +6,5 @@ __pycache__/
 # Environments and secrets
 .env
 venv/
-
+log/
+logs/
